@@ -44,6 +44,7 @@
 # .idea/modules
 # *.iml
 # *.ipr
+.idea/.idea.Goldpen_Race/
 
 # CMake
 cmake-build-*/
